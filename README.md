@@ -10,9 +10,9 @@ I don't know who this addon belongs to, but all credits to him or her.
 
 HUD upgrades:
 
--"+" on hud now used to let know the player if he is arrested. (red means arrested)
--Armor bar not breaking out of its max range (used math.Clamp)
--Now shows license next to the HUD
+1) "+" on hud now used to let know the player if he is arrested. (red means arrested)
+2) Armor bar not breaking out of its max range (used math.Clamp)
+3) Now shows license next to the HUD
 
 ==========================================================================================
 
