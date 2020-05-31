@@ -2,4 +2,8 @@ How to install:
 
 Gmod local game:
 
-Go to your Steam directory, steamapps, common, GarrysMod, garrysmod, addons, darkrp modificationmaster, lua, darkrp_modules, hudreplacement and drop the lua file there.
+Go to your Steam directory, steamapps, common, GarrysMod, garrysmod, addons, darkrp modificationmaster, lua, darkrp_modules, hudreplacement and drop the lua file there. (replacing the original)
+
+Gmod server:
+
+Go to the server folder, garrysmod, addons, darkrp modificationmaster, lua, darkrp_modules, hudreplacement and drop the lua file.(replacing the original)
