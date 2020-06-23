@@ -8,15 +8,20 @@ I don't know who this addon belongs to, but all credits to him or her.
 
 ========================================================================================
 
-HUD upgrades:
+HUD upgrades/fixes:
 
-1) "+" on hud now used to let know the player if he is arrested. (red means arrested)
-2) Armor bar not breaking out of its max range (used math.Clamp)
-3) Now shows license next to the HUD
+Upgrades:
+
+1) "+" on hud now used to let the player know if he is arrested. (red means arrested)
+2) Now shows license next to the HUD
+
+Fixes:
+
+1) Armor bar not breaking out of its max range (used math.Clamp)
 
 ==========================================================================================
 
-Any bug/glitch can be reported through my Steam (English or Spanish). Feel free to add me or just live a comment.
+Any bug/glitch can be reported through my Steam (English or Spanish). Leave a comment before adding.
 
 https://steamcommunity.com/id/GoranW/
 
