@@ -23,7 +23,7 @@ Fixes:
 
 Any bug/glitch can be reported through my Steam (English or Spanish). Leave a comment before adding.
 
-https://steamcommunity.com/id/GoranW/
+[https://steamcommunity.com/id/GoranW/](https://steamcommunity.com/id/GGGoran/)
 
 ==========================================================================================
 
